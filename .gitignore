@@ -1,0 +1,32 @@
+# Arquivos de configuração do PyCharm
+.idea/
+
+# Arquivos gerados pelo Django
+*.pyc
+*.pyo
+__pycache__
+
+# Arquivos de mídia e arquivos estáticos gerados
+/static/
+/media/
+
+# Arquivos de banco de dados SQLite
+*.sqlite3
+
+# Arquivos de logs
+*.log
+
+# Arquivos de ambiente virtual do Python (geralmente na pasta 'venv' ou 'env')
+venv/
+env/
+
+# Arquivos de dependências
+*.pyc
+*.pyo
+__pycache__
+
+# Arquivos de cache
+*.pyc
+*.pyo
+__pycache__
+
